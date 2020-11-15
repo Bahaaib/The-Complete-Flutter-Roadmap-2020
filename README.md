@@ -15,9 +15,9 @@ A Roadmap for mastering mobile development using Flutter Framework updated for 2
 * [Dart 2 hours Crash Course](https://youtu.be/Ej_Pcr4uC2Q) *(Video)*
 
 ### Object-Oriented Programming (OOP)
-[OOP Concepts](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
-[OOP using Dart](https://levelup.gitconnected.com/fluttering-dart-oop-8b92cd89a7f0)
-[A Definitive Guide to Dart OOP Concepts](https://www.javatpoint.com/dart-object-oriented-concepts)
+* [OOP Concepts](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+* [OOP using Dart](https://levelup.gitconnected.com/fluttering-dart-oop-8b92cd89a7f0)
+* [A Definitive Guide to Dart OOP Concepts](https://www.javatpoint.com/dart-object-oriented-concepts)
 
 ### IDE installing
 * [Setup an IDE for Flutter Development](https://flutter.dev/docs/get-started/editor)
