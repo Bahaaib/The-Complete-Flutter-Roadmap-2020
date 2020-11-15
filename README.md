@@ -23,16 +23,16 @@ A Roadmap to master mobile development using Flutter Framework updated for 2020
 * [Setup an IDE for Flutter Development](https://flutter.dev/docs/get-started/editor)
 
 ### Flutter Widgets
-* [What is a widget in Flutter?](https://stackoverflow.com/questions/50958238/what-is-a-widget-in-flutter) *(Thoughts on widget philosophy in Flutter)*
+* [What is a widget in Flutter?](https://stackoverflow.com/questions/50958238/what-is-a-widget-in-flutter) *(Thoughts on the widget philosophy in Flutter)*
 * [Officaial Documentation to all available widgets](https://flutter.dev/docs/development/ui/widgets-intro)
 * [Widget of the week Playlist](https://www.youtube.com/watch?v=b_sQ9bMltGU&feature=youtu.be&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) *(The famous Google playlist for common used widgets)*
 * [Statless vs. Stateful Widgets](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae) *(Insightful answer to the famous interview question)*
-* [Flutter UI Layouts](https://flutter.dev/docs/development/ui/layout) *(The complete officail reference)*
+* [Flutter UI Layouts](https://flutter.dev/docs/development/ui/layout) *(The complete official reference)*
 * [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Flutter Widget Catalog](https://flutter.dev/docs/development/ui/widgets) *(All Flutter widgets in one place)*
 
 ### Flutter Animations
-* [Animating Apps in Flutter](https://www.smashingmagazine.com/2019/10/animation-apps-flutter/) *(The complete animations guide)*
+* [Animating Apps in Flutter](https://www.smashingmagazine.com/2019/10/animation-apps-flutter/) *(The Complete Animations Guide)*
 * [Animations in Flutter - The Easy Guide](https://www.didierboelens.com/2018/06/animations-in-flutter---easy-guide---tutorial/?utm_campaign=Flutter%2BWeekly%2BNewsletter&utm_medium=web&utm_source=Flutter_Weekly_Newsletter_2)
 
 ### Flutter Storage
@@ -42,8 +42,8 @@ A Roadmap to master mobile development using Flutter Framework updated for 2020
 * [Introducing Flutter Moor](https://youtu.be/zpWsedYMczM) *(Video)*
 * [Using SharedPreferences in Flutter](https://medium.com/flutterdevs/using-sharedpreferences-in-flutter-251755f07127)
 
-### State Management (Preferred to check in order)
-* [Widget, State, Context and InheritedWidget](https://www.didierboelens.com/2018/06/widget-state-context-inheritedwidget/) *(Hyper Important reference for before state managment beginners)*
+### State Management *(Preferred to check in order)*
+* [Widget, State, Context and InheritedWidget](https://www.didierboelens.com/2018/06/widget-state-context-inheritedwidget/) *(Hyper Important reference for State Managment Beginners)*
 * [Pragmatic State Management](https://www.youtube.com/watch?v=d_m5csmrf7I&feature=youtu.be) *(Google I/O 19 Talk Video)*
 * [Akwad Customized BLoC pattern](https://app.clickup.com/764648/v/dc/qaq8-834/qaq8-316)
 
@@ -52,9 +52,9 @@ A Roadmap to master mobile development using Flutter Framework updated for 2020
 * [Flutter Auto Route Package Explained](https://youtu.be/iVpVBmDhpJY) *(Video)*
 
 ### Flutter Reactive Programming (Rx)
-* [What is Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) *(The ultimate Reactive Philosophy Guide)*
-* [Practical Rx with Flutter](https://www.youtube.com/watch?v=7O1UO5rEpRc) *(Why we need Rx by Flutter team member Filip Hracek)*
-* [Why we use Rx in Flutter? (A practical guide to stream subjects)](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
+* [What is Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) *(The Ultimate Reactive Programming Philosophy Guide)*
+* [Practical Rx with Flutter](https://www.youtube.com/watch?v=7O1UO5rEpRc) *(Why we need Rx? by Flutter team member Filip Hracek)*
+* [Why we use Rx in Flutter? (A Practical Guide to Rx Subjects)](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
 ### Networking in Flutter
 * [The Complete Flutter Networking Codelab](https://www.raywenderlich.com/5896601-flutter-networking-tutorial-getting-started)
@@ -67,7 +67,7 @@ A Roadmap to master mobile development using Flutter Framework updated for 2020
 ### Service Locators & Dependency Injectors 
 * [Dependency Injection or Service Locator?](https://medium.com/mobile-app-development-publication/dependency-injection-and-service-locator-4dbe4559a3ba) *(The Definitive Guide)*
 * [How to use Service Locators in Flutter](https://www.burkharts.net/apps/blog/one-to-find-them-all-how-to-use-service-locators-with-flutter/)
-* [Flutter Dependency Injection a true love story](https://blog.usejournal.com/flutter-di-a-true-love-story-1e5a5ae2ba2d) *(Using GetIt as a service Locator)*
+* [Flutter Dependency Injection a true love story](https://blog.usejournal.com/flutter-di-a-true-love-story-1e5a5ae2ba2d) *(Using Get_it as a service Locator)*
 
 ### Method Channels
 * [Official Documentation](https://flutter.dev/docs/development/platform-integration/platform-channels?tab=ios-channel-swift-tab)
